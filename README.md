@@ -92,6 +92,10 @@
 12. [Revisiting Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors)
 13. [Project: Etch-a-Sketch](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
 14. [Fundamentals Part 5](https://www.theodinproject.com/lessons/foundations-fundamentals-part-5)
+    - [Objects](https://www.theodinproject.com/lessons/foundations-fundamentals-part-5#objects)
+      - [javascript.info - Objects](https://javascript.info/object)
+      - [mdn - JavaScript object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+    - [Intermediate/Advanced Array Magic](https://www.theodinproject.com/lessons/foundations-fundamentals-part-5#intermediateadvanced-array-magic)
 15. [Project: Calculator](https://www.theodinproject.com/lessons/foundations-calculator)
 
 ### [The Back End](https://www.theodinproject.com/paths/foundations/courses/foundations#the-back-end)
