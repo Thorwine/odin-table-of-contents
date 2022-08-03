@@ -5,10 +5,39 @@
 ### [Introduction](https://www.theodinproject.com/paths/foundations/courses/foundations#introduction)
 
 1. [How this Course Will Work](https://www.theodinproject.com/lessons/foundations-how-this-course-will-work)
+   - [Introduction](https://www.theodinproject.com/lessons/foundations-how-this-course-will-work#introduction)
+   - [How It Works](https://www.theodinproject.com/lessons/foundations-how-this-course-will-work#how-it-works)
+   - [A Note About Language](https://www.theodinproject.com/lessons/foundations-how-this-course-will-work#a-note-about-language)
+   - [What Comes Next](https://www.theodinproject.com/lessons/foundations-how-this-course-will-work#what-comes-next)
 2. [Introduction to Web Development](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development)
+   - [Introduction](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development#introduction)
+   - [Types of Web Developers](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development#types-of-web-developers)
+   - [Types of Careers](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development#types-of-careers)
+   - [Tools of the Trade](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development#tools-of-the-trade)
+   - [Motivation](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development#motivation)
+   - [Why Odin?](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development#why-odin)
+   - [Conclusion](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development#conclusion)
 3. [Motivation and Mindset](theodinproject.com/lessons/foundations-motivation-and-mindset)
+   - [Introduction](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#introduction)
+   - [Motivation](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#motivation)
+   - [Growth Mindset](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#growth-mindset)
+   - [The Learning Process](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#the-learning-process)
+   - [What to Do When You’re Stuck](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#what-to-do-when-youre-stuck)
+   - [Managing Your Study Time](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#managing-your-study-time)
+   - [Pitfalls to Avoid](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#pitfalls-to-avoid)
+   - [Conclusion](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#conclusion)
 4. [Asking For Help](https://www.theodinproject.com/lessons/foundations-asking-for-help)
+   - [Introduction](https://www.theodinproject.com/lessons/foundations-asking-for-help#introduction)
+   - [Tips for Getting the Best Help Possible](https://www.theodinproject.com/lessons/foundations-asking-for-help#tips-for-getting-the-best-help-possible)
 5. [Join the Odin Community](https://www.theodinproject.com/lessons/foundations-join-the-odin-community)
+   - [Introduction](https://www.theodinproject.com/lessons/foundations-join-the-odin-community#introduction)
+   - [Why a Community Is Awesome for You](https://www.theodinproject.com/lessons/foundations-join-the-odin-community#why-a-community-is-awesome-for-you)
+   - [Why a Community Is Awesome for Odin](https://www.theodinproject.com/lessons/foundations-join-the-odin-community#why-a-community-is-awesome-for-odin)
+   - [Before Asking for Help](https://www.theodinproject.com/lessons/foundations-join-the-odin-community#before-asking-for-help)
+   - [Asking for Help](https://www.theodinproject.com/lessons/foundations-join-the-odin-community#asking-for-help)
+   - [Formatting Your Questions](https://www.theodinproject.com/lessons/foundations-join-the-odin-community#formatting-your-questions)
+   - [Chat Features](https://www.theodinproject.com/lessons/foundations-join-the-odin-community#chat-features)
+   - [How to Help Others Solve Coding Problems](https://www.theodinproject.com/lessons/foundations-join-the-odin-community#how-to-help-others-solve-coding-problems)
 
 ### [Prerequisites](https://www.theodinproject.com/paths/foundations/courses/foundations#prerequisites)
 
@@ -106,3 +135,9 @@
 ### [Conclusion](https://www.theodinproject.com/paths/foundations/courses/foundations#conclusion)
 
 1. [Choose Your Path Forward](https://www.theodinproject.com/lessons/foundations-choose-your-path-forward)
+
+### Topics not linked in this file:
+- Lesson Overviews
+- Assignments
+- Knowledge Checks
+- Additional Resources (partly listed as separate direct links)
