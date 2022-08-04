@@ -87,6 +87,8 @@
    - [Numbers](https://www.theodinproject.com/lessons/foundations-fundamentals-part-1#numbers)
 2. [Fundamentals Part 2](https://www.theodinproject.com/lessons/foundations-fundamentals-part-2)
    - [Strings](https://www.theodinproject.com/lessons/foundations-fundamentals-part-2#strings)
+     - [mdn - Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+     - [w3schools - Regular Expressions](https://www.w3schools.com/js/js_regexp.asp)
    - [Conditionals](https://www.theodinproject.com/lessons/foundations-fundamentals-part-2#conditionals)
 3. [JavaScript Developer Tools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools)
 4. [Fundamentals Part 3](https://www.theodinproject.com/lessons/foundations-fundamentals-part-3)
