@@ -17,7 +17,7 @@
    - [Motivation](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development#motivation)
    - [Why Odin?](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development#why-odin)
    - [Conclusion](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development#conclusion)
-3. [Motivation and Mindset](theodinproject.com/lessons/foundations-motivation-and-mindset)
+3. [Motivation and Mindset](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset)
    - [Introduction](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#introduction)
    - [Motivation](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#motivation)
    - [Growth Mindset](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#growth-mindset)
