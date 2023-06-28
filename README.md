@@ -23,6 +23,7 @@
    - [Growth Mindset](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#growth-mindset)
    - [The Learning Process](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#the-learning-process)
    - [What to Do When You’re Stuck](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#what-to-do-when-youre-stuck)
+   - [A Note on AI Code Generation](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#a-note-on-ai-code-generation)
    - [Managing Your Study Time](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#managing-your-study-time)
    - [Pitfalls to Avoid](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#pitfalls-to-avoid)
    - [Conclusion](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#conclusion)
