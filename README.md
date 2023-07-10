@@ -68,10 +68,12 @@
 
 ### [CSS Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations)
 
-1. [CSS Foundations](https://www.theodinproject.com/lessons/foundations-css-foundations)
-2. [Inspecting HTML and CSS](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css)
-3. [The Box Model](https://www.theodinproject.com/lessons/foundations-the-box-model)
-4. [Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)
+1. [Intro to CSS](https://www.theodinproject.com/lessons/foundations-intro-to-css)
+   - [mdn - CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
+2. [The Cascade](https://www.theodinproject.com/lessons/foundations-the-cascade)
+3. [Inspecting HTML and CSS](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css)
+4. [The Box Model](https://www.theodinproject.com/lessons/foundations-the-box-model)
+5. [Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)
 
 ### [Flexbox](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
 
@@ -140,6 +142,7 @@
 1. [Choose Your Path Forward](https://www.theodinproject.com/lessons/foundations-choose-your-path-forward)
 
 ### Topics not linked in this file:
+
 - Lesson Overviews
 - Assignments
 - Knowledge Checks
