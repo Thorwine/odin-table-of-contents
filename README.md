@@ -71,6 +71,7 @@
 1. [Intro to CSS](https://www.theodinproject.com/lessons/foundations-intro-to-css)
    - [mdn - CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
 2. [The Cascade](https://www.theodinproject.com/lessons/foundations-the-cascade)
+   - [digitalocean.com - Changing the Font Family](https://www.digitalocean.com/community/tutorials/how-to-load-and-use-custom-fonts-with-css)
 3. [Inspecting HTML and CSS](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css)
 4. [The Box Model](https://www.theodinproject.com/lessons/foundations-the-box-model)
 5. [Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)
