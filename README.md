@@ -71,7 +71,7 @@
 1. [Intro to CSS](https://www.theodinproject.com/lessons/foundations-intro-to-css)
    - [mdn - CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
 2. [The Cascade](https://www.theodinproject.com/lessons/foundations-the-cascade)
-   - [digitalocean.com - Changing the Font Family](https://www.digitalocean.com/community/tutorials/how-to-load-and-use-custom-fonts-with-css)
+   - [Changing the Font Family](https://www.digitalocean.com/community/tutorials/how-to-load-and-use-custom-fonts-with-css)
 3. [Inspecting HTML and CSS](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css)
 4. [The Box Model](https://www.theodinproject.com/lessons/foundations-the-box-model)
 5. [Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)
@@ -79,9 +79,13 @@
 ### [Flexbox](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
 
 1. [Introduction to Flexbox](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox)
+   - [Flexbox tutorial](https://internetingishard.netlify.app/html-and-css/flexbox/index.html)
 2. [Growing and Shrinking](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
 3. [Axes](https://www.theodinproject.com/lessons/foundations-axes)
 4. [Alignment](https://www.theodinproject.com/lessons/foundations-alignment)
+   - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+   - [mdn - Typical use cases of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Typical_Use_Cases_of_Flexbox)
+   - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 5. [Project: Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)
 
 ### [JavaScript Basics](https://www.theodinproject.com/paths/foundations/courses/foundations#javascript-basics)
